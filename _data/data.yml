@@ -1,0 +1,143 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Robertas Šetkus
+    tagline: Android Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    linkedin: setkusrobertas
+    github: rsetkus
+    twitter: '@rsetkus'
+    codewars: 'rsetkus'
+
+    languages:
+      - idiom: Lithuanian
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Highly skilled, professional software developer bringing software solutions since 2012 in development and integration. Self-directed and motivated Software Engineer who works effectively in a dynamic environment. Fluent in **Android SDK**. [Certified](https://www.youracclaim.com/users/robertas-setkus/badges) in **JAVA**. Excellent in **Kotlin**.
+
+education:
+    - degree: BSc in Informatics Engineering
+      university: Kaunas University of Technology
+      time: 2005 - 2010
+
+experiences:
+    - role: Principal Android Developer
+      time: May 2016 - Present
+      company: EE, Leeds England
+      details: |
+        EE is the largest and most advanced digital communications company in Britain, delivering mobile and fixed communications services. 
+
+          - Build components and solutions for one of the UK’s busiest Android applications
+          - Take responsibility for meeting and exceeding company's design and delivery targets
+          - Mentor and train other developers in the team, reviewing all work completed and ensuring everything is delivered to a high standard
+          - Balance a large number of requests for development while meeting business expectations
+          - Liaise with a range of technical and business stakeholders to help define and communicate solutions
+          - Pickup, evaluate and communicate the merits of new technologies
+
+    - role: Senior Android Developer
+      time: Nov 2015 - Jan 2016
+      company: Globant, London England
+      details: |
+        Globant is a new-breed technology services provider focused on delivering innovative software solutions by leveraging emerging technologies and trends. Company combine the engineering and technical rigor of IT services providers with the creative approach and culture of digital agencies. Globant is the place where engineering, design and innovation meet scale.
+        
+    - role: Senior Android Developer
+      time: Nov 2015 - Jan 2016
+      company: Glasgow, Scotland
+      details: |
+        JPMorgan Chase & Co. is a financial holding company. The Company is engaged in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.
+        
+          - Support and enhance software created in earlier
+          - Create and execute software test plans, including unit test plans
+          - Develop software solutions by studying information needs; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle
+          - Write clean, stable, unit-tested code and accompanying documentation where needed
+    
+    - role: Senior Android Developer
+      time: Feb 2015 - Sep 2015
+      company: Social App Stories, Sydney Australia
+
+    - role: Android Developer
+      time: Feb 2014 - Mar 2015
+      company: UAB "Technoliginių Paslaugų Sprendimai", Kaunas Lithuania
+      details: |
+        The company specializes in smart solutions for premises security and video surveillance, Access Control System for education institutions and companies, wireless nurse call systems, smart houses and other IT solutions for business.
+
+          - Working alone or under supervision
+          - Development of mobile application
+          - Supporting or implementation of new features to existing mobile applications
+          - Consulting on basis questions about technical implementation of mobile applications
+          - Responsible of creating user manual
+
+    - role: Android Developer
+      time: May 2012 - Feb 2014
+      company: UAB "Agilitus", Kaunas Lithuania
+      details: |
+        Development and integration of information systems intended for the effective management of customer service.
+
+          - Hybrid application development
+          - Making technical decisions
+          - Development of mobile application
+          - Supporting or implementation of new features to existing mobile applications
+          - Consulting on basis questions about technical implementation of mobile applications
+          - Responsible of creating user manual
+
+    - role: PHP Developer
+      time: Oct 2010 - May 2012
+      company: UAB "Būtenta", Kaunas Lithuania
+      details: |
+        UAB "Būtenta" develops and adapts business management and accounting software to business organizations of various profiles.
+
+          - Supporting legacy applications
+          - Implementing new features to existing applications
+          - Consulting existing software abilities See less
+
+    - role: PHP Developer (internship)
+      time: Apr 2010 - Jun 2010
+      company: e-Learning Technology Centre at Kaunas University of Technology, Kaunas Lithuania
+      details: |
+        Drupal LOM (metadata archiving) and OAI – PMH (metadata exchange service) module development and integration with other Drupal modules.
+
+          - Learn Drupal CMF
+          - Implement LOM (Learning Object Metadata) Drupal module
+          - Implement OAI – PMH (Open Archives Initiative – Protocol for Metadata Harvesting) Drupal module.
+
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+
+#     papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
